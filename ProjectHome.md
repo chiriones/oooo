@@ -1,0 +1,1 @@
+Software for the Oslo Laptop Orchestra, built for/with Max/MSP, PD and Chuck.
